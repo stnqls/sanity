@@ -39,3 +39,5 @@ sanity init
     }
 }
 ```
+![화면 캡처 2023-02-22 130323](https://user-images.githubusercontent.com/81519415/220521152-989ffcc7-0cec-46d2-a33c-d7e4f5ae7f15.png)
+
