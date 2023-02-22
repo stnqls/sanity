@@ -26,7 +26,7 @@ export default defineType({
       validation: (Rule) => Rule.required(),
       components: {
         input: CodeInput,
-        // field: CodeInputField,
+        field: CodeInputField,
       },
     }),
   ],
